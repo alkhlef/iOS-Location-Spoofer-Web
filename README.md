@@ -162,3 +162,4 @@
 ## 🔗 友情链接
 
 - [LINUX DO - 新的理想型社区](https://linux.do/)
+Cloudflare Pages deployment update
